@@ -1,4 +1,6 @@
 #!/bin/sh -
+# usage: $ cat shinjigen.*.txt | sh shinjigen2tex.sh > shinjigen.tex
+# tex -> pdf には [ipamjmパッケージ](http://psitau.kitunebi.com/experiment.html)が必要
 
 cat <<-'__EOL__'
 	\documentclass[21pt]{jsarticle}
