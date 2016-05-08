@@ -6,6 +6,7 @@ cat <<'EndOfHeader'
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=0.9">
 <title>表示確認（新字・旧字） | 旧字フォント 馬酔木明朝</title>
+<!-- powered by metasta/shinjigen-glyph/util/shinji-kyuji.sh -->
 <link rel="stylesheet" href="/normalize.css">
 <link rel="stylesheet" href="glyphtable.css">
 <link id="webfont" href="https://ss1.xrea.com/metasta.s602.xrea.com/Asebi.css">
